@@ -26,7 +26,7 @@ if __name__ == '__main__':
         row_cells[0].text = str(qty)
         row_cells[1].text = id
         row_cells[2].text = desc
-
+        pass
     document_ins.save('demo.docx')
 
 
